@@ -1,1 +1,1 @@
-Basic Number Guessing Game with C# limiting the user to 10 attempts, using a random number generator, inner and outer while loops and if else logic function for comparison and retry functionality
+Basic Console Number Guessing Game with C# limiting the user to 10 attempts, using a random number generator, inner and outer while loops and if else logic function for comparison and retry functionality
